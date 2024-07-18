@@ -1,0 +1,19 @@
+.makeAwish {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  font-weight: 800;
+  font-size: 50px;
+  height: 20vh;
+  color: rgb(33, 33, 132);
+}
+
+.makeAwish div {
+  text-transform: uppercase;
+}
+
+.makeAwish p {
+  font-size: 17px;
+  font-weight: 400;
+}
